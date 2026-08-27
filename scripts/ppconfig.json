@@ -38,7 +38,7 @@
             "height": 600,
             "theme": null,
             "resizable": true,
-            "fullscreen": false,
+            "fullscreen": true,
             "maximized": false,
             "minWidth": 400,
             "minHeight": 300,
@@ -169,10 +169,10 @@
         "safeArea": "all"
     },
     "android": {
-        "name": "PakePlus",
-        "showName": "PakePlus",
+        "name": "showpad",
+        "showName": "showpad",
         "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
+        "webUrl": "https://cgjbd.nanjing.gov.cn:9080/egova/eUrbanMIS/view/showpad/index.html",
         "id": "com.xiaoshen.pakeplus.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
